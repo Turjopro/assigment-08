@@ -50,7 +50,10 @@ export default function Home() {
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
           {featuredBooks.map((book) => (
-            <div key={book.id} className="card bg-base-100 shadow-xl">
+            <div
+  key={book.id}
+  className="card bg-base-100 shadow-xl animate__animated animate__fadeInUp"
+>
               <figure className="h-56">
                 <img
                   src={book.image_url}
