@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://covers.openlibrary.org/b/id/10091803-L.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A handbook of agile software craftsmanship that teaches how to write readable, maintainable, and efficient code.",
+    "category": "Tech",
+    "available_quantity": 3,
+    "image_url": "https://covers.openlibrary.org/b/id/8235116-L.jpg"
+  },
+  {
+    "id": 3,
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "description": "A landmark volume exploring profound questions about the universe, time, and black holes in accessible language.",
+    "category": "Science",
+    "available_quantity": 7,
+    "image_url": "https://covers.openlibrary.org/b/id/9255566-L.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A shepherd boy travels from Spain to Egypt in search of a treasure, discovering the importance of listening to one's heart.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": "https://covers.openlibrary.org/b/id/8231856-L.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "description": "A comprehensive textbook covering a broad range of algorithms in depth, widely used in computer science courses.",
+    "category": "Tech",
+    "available_quantity": 2,
+    "image_url": "https://covers.openlibrary.org/b/id/7896534-L.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "description": "A journey through the universe exploring its origin, evolution, and humanity's place within it.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://covers.openlibrary.org/b/id/8406786-L.jpg"
+  },
+  {
+    "id": 7,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A gripping tale of racial injustice and childhood innocence in the American South, told through a young girl's eyes.",
+    "category": "Story",
+    "available_quantity": 8,
+    "image_url": "https://covers.openlibrary.org/b/id/8231990-L.jpg"
+  },
+  {
+    "id": 8,
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "description": "A deep dive into the core mechanisms of the JavaScript language, aimed at developers wanting true mastery.",
+    "category": "Tech",
+    "available_quantity": 5,
+    "image_url": "https://covers.openlibrary.org/b/id/8091016-L.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "description": "A groundbreaking work presenting evolution from the perspective of the gene, reshaping how we understand biology.",
+    "category": "Science",
+    "available_quantity": 3,
+    "image_url": "https://covers.openlibrary.org/b/id/8406527-L.jpg"
+  },
+  {
+    "id": 10,
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel depicting a totalitarian regime that controls truth, thought, and history itself.",
+    "category": "Story",
+    "available_quantity": 9,
+    "image_url": "https://covers.openlibrary.org/b/id/8575141-L.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Design Patterns",
+    "author": "Erich Gamma",
+    "description": "The classic reference on reusable object-oriented software design, introducing 23 foundational design patterns.",
+    "category": "Tech",
+    "available_quantity": 4,
+    "image_url": "https://covers.openlibrary.org/b/id/8235156-L.jpg"
+  },
+  {
+    "id": 12,
+    "title": "The Origin of Species",
+    "author": "Charles Darwin",
+    "description": "The foundational text of evolutionary biology, introducing the theory of natural selection to the world.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://covers.openlibrary.org/b/id/8406639-L.jpg"
+  }
+]
